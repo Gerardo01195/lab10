@@ -27,10 +27,10 @@ square = drawpad.create_rectangle(200,200,400,400, fill ='red')
 line1 = drawpad.create_line(200,200,300,100)
 line2 = drawpad.create_line(300,100,400,200)
 # square windows code
-square1 = drawpad.create_rectangle(220,300,260,340, fill ='white')
-square2 = drawpad.create_rectangle(340,300,380,340, fill ='white')
-square3 = drawpad.create_rectangle(220,250,260,210, fill ='white')
-square4 = drawpad.create_rectangle(340,250,380,210, fill ='white')
+square1 = drawpad.create_rectangle(220,300,260,340, fill ='yellow')
+square2 = drawpad.create_rectangle(340,300,380,340, fill ='black')
+square3 = drawpad.create_rectangle(220,250,260,210, fill ='black')
+square4 = drawpad.create_rectangle(340,250,380,210, fill ='yellow')
 # Door Code
 square = drawpad.create_rectangle(280,400,320,320, fill ='red')
 # Door Handle
